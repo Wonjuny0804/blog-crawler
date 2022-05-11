@@ -1,0 +1,119 @@
+title,exercpt,date,href
+Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기,"토스페이먼츠에서는 API docs를 REST Docs를 사용해서 작성할 수 있도록 권장하고 있습니다. 이 글에서는 DSL을 통해서 반복적인 REST Docs 테스트 코드 작성을 줄일 수 있는 방법을 알아봅니다.
+",2022. 4. 11,https://toss.tech/article/kotlin-dsl-restdocs
+조금만 신경써서 초기 렌더링 빠르게 하기 (feat. JAM Stack),"SPA(Single Page Application) 구조로 웹 프론트엔드 애플리케이션이 개발되면서 초기 렌더링 속도는 프런트엔드 개발자에게 중요한 과제 중 하나가 되었습니다. 사용자 경험에 영향을 줄 수 있는 가장 큰 요소 중 하나가 바로 속도이기 때문입니다.
+",2022. 2. 9,https://toss.tech/article/faster-initial-rendering
+개발자의 애질리티,"이 글은 토스페이먼츠에 입사하신, 혹은 입사를 고려 중인 개발자분들을 위해 작성된 글입니다. 애자일하게 일한다는 것은 어떠한 의미일까요?
+",2021. 10. 14,https://toss.tech/article/dev-agility
+Template Literal Types로 타입 안전하게 코딩하기,"TypeScript 코드베이스의 타입 안전성을 한 단계 올려줄 수 있는 Template Literal Type의 뜻과 응용에 대해 알아봅니다.
+",2021. 5. 14,https://toss.tech/article/template-literal-types
+node_modules로부터 우리를 구원해 줄 Yarn Berry,"토스 프론트엔드 레포지토리 대부분에서 사용하고 있는 패키지 매니저 Yarn Berry. 채택하게 된 배경과 사용하면서 좋았던 점을 공유합니다.
+",2021. 5. 7,https://toss.tech/article/node-modules-and-yarn-berry
+JSCodeShift로 기술 부채 청산하기,"기술 부채는 개발할수록 쌓여만 갑니다. 프론트엔드 챕터가 JSCodeShift를 이용하여 순식간에 100개 서비스의 기술 부채를 해결한 경험을 소개합니다.
+",2021. 5. 4,https://toss.tech/article/jscodeshift
+웹 서비스 캐시 똑똑하게 다루기,"웹 성능을 위해 꼭 필요한 캐시, 제대로 설정하기 쉽지 않습니다. 토스 프론트엔드 챕터에서 올바르게 캐시를 설정하기 위한 노하우를 공유합니다.
+",2021. 4. 29,https://toss.tech/article/smart-web-service-cache
+토스 프론트엔드 챕터를 소개합니다!,"토스에서 프론트엔드 개발자가 일하는 방법과 맡고 있는 역할에 대해 소개드립니다.
+",2021. 4. 28,https://toss.tech/article/toss-frontend-chapter
+title,exercpt,date,href
+Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기,"토스페이먼츠에서는 API docs를 REST Docs를 사용해서 작성할 수 있도록 권장하고 있습니다. 이 글에서는 DSL을 통해서 반복적인 REST Docs 테스트 코드 작성을 줄일 수 있는 방법을 알아봅니다.
+",2022. 4. 11,https://toss.tech/article/kotlin-dsl-restdocs
+조금만 신경써서 초기 렌더링 빠르게 하기 (feat. JAM Stack),"SPA(Single Page Application) 구조로 웹 프론트엔드 애플리케이션이 개발되면서 초기 렌더링 속도는 프런트엔드 개발자에게 중요한 과제 중 하나가 되었습니다. 사용자 경험에 영향을 줄 수 있는 가장 큰 요소 중 하나가 바로 속도이기 때문입니다.
+",2022. 2. 9,https://toss.tech/article/faster-initial-rendering
+개발자의 애질리티,"이 글은 토스페이먼츠에 입사하신, 혹은 입사를 고려 중인 개발자분들을 위해 작성된 글입니다. 애자일하게 일한다는 것은 어떠한 의미일까요?
+",2021. 10. 14,https://toss.tech/article/dev-agility
+Template Literal Types로 타입 안전하게 코딩하기,"TypeScript 코드베이스의 타입 안전성을 한 단계 올려줄 수 있는 Template Literal Type의 뜻과 응용에 대해 알아봅니다.
+",2021. 5. 14,https://toss.tech/article/template-literal-types
+node_modules로부터 우리를 구원해 줄 Yarn Berry,"토스 프론트엔드 레포지토리 대부분에서 사용하고 있는 패키지 매니저 Yarn Berry. 채택하게 된 배경과 사용하면서 좋았던 점을 공유합니다.
+",2021. 5. 7,https://toss.tech/article/node-modules-and-yarn-berry
+JSCodeShift로 기술 부채 청산하기,"기술 부채는 개발할수록 쌓여만 갑니다. 프론트엔드 챕터가 JSCodeShift를 이용하여 순식간에 100개 서비스의 기술 부채를 해결한 경험을 소개합니다.
+",2021. 5. 4,https://toss.tech/article/jscodeshift
+웹 서비스 캐시 똑똑하게 다루기,"웹 성능을 위해 꼭 필요한 캐시, 제대로 설정하기 쉽지 않습니다. 토스 프론트엔드 챕터에서 올바르게 캐시를 설정하기 위한 노하우를 공유합니다.
+",2021. 4. 29,https://toss.tech/article/smart-web-service-cache
+토스 프론트엔드 챕터를 소개합니다!,"토스에서 프론트엔드 개발자가 일하는 방법과 맡고 있는 역할에 대해 소개드립니다.
+",2021. 4. 28,https://toss.tech/article/toss-frontend-chapter
+title,exercpt,date,href
+Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기,"토스페이먼츠에서는 API docs를 REST Docs를 사용해서 작성할 수 있도록 권장하고 있습니다. 이 글에서는 DSL을 통해서 반복적인 REST Docs 테스트 코드 작성을 줄일 수 있는 방법을 알아봅니다.
+",2022. 4. 11,https://toss.tech/article/kotlin-dsl-restdocs
+조금만 신경써서 초기 렌더링 빠르게 하기 (feat. JAM Stack),"SPA(Single Page Application) 구조로 웹 프론트엔드 애플리케이션이 개발되면서 초기 렌더링 속도는 프런트엔드 개발자에게 중요한 과제 중 하나가 되었습니다. 사용자 경험에 영향을 줄 수 있는 가장 큰 요소 중 하나가 바로 속도이기 때문입니다.
+",2022. 2. 9,https://toss.tech/article/faster-initial-rendering
+개발자의 애질리티,"이 글은 토스페이먼츠에 입사하신, 혹은 입사를 고려 중인 개발자분들을 위해 작성된 글입니다. 애자일하게 일한다는 것은 어떠한 의미일까요?
+",2021. 10. 14,https://toss.tech/article/dev-agility
+Template Literal Types로 타입 안전하게 코딩하기,"TypeScript 코드베이스의 타입 안전성을 한 단계 올려줄 수 있는 Template Literal Type의 뜻과 응용에 대해 알아봅니다.
+",2021. 5. 14,https://toss.tech/article/template-literal-types
+node_modules로부터 우리를 구원해 줄 Yarn Berry,"토스 프론트엔드 레포지토리 대부분에서 사용하고 있는 패키지 매니저 Yarn Berry. 채택하게 된 배경과 사용하면서 좋았던 점을 공유합니다.
+",2021. 5. 7,https://toss.tech/article/node-modules-and-yarn-berry
+JSCodeShift로 기술 부채 청산하기,"기술 부채는 개발할수록 쌓여만 갑니다. 프론트엔드 챕터가 JSCodeShift를 이용하여 순식간에 100개 서비스의 기술 부채를 해결한 경험을 소개합니다.
+",2021. 5. 4,https://toss.tech/article/jscodeshift
+웹 서비스 캐시 똑똑하게 다루기,"웹 성능을 위해 꼭 필요한 캐시, 제대로 설정하기 쉽지 않습니다. 토스 프론트엔드 챕터에서 올바르게 캐시를 설정하기 위한 노하우를 공유합니다.
+",2021. 4. 29,https://toss.tech/article/smart-web-service-cache
+토스 프론트엔드 챕터를 소개합니다!,"토스에서 프론트엔드 개발자가 일하는 방법과 맡고 있는 역할에 대해 소개드립니다.
+",2021. 4. 28,https://toss.tech/article/toss-frontend-chapter
+title,exercpt,date,href
+Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기,"토스페이먼츠에서는 API docs를 REST Docs를 사용해서 작성할 수 있도록 권장하고 있습니다. 이 글에서는 DSL을 통해서 반복적인 REST Docs 테스트 코드 작성을 줄일 수 있는 방법을 알아봅니다.
+",2022. 4. 11,https://toss.tech/article/kotlin-dsl-restdocs
+조금만 신경써서 초기 렌더링 빠르게 하기 (feat. JAM Stack),"SPA(Single Page Application) 구조로 웹 프론트엔드 애플리케이션이 개발되면서 초기 렌더링 속도는 프런트엔드 개발자에게 중요한 과제 중 하나가 되었습니다. 사용자 경험에 영향을 줄 수 있는 가장 큰 요소 중 하나가 바로 속도이기 때문입니다.
+",2022. 2. 9,https://toss.tech/article/faster-initial-rendering
+개발자의 애질리티,"이 글은 토스페이먼츠에 입사하신, 혹은 입사를 고려 중인 개발자분들을 위해 작성된 글입니다. 애자일하게 일한다는 것은 어떠한 의미일까요?
+",2021. 10. 14,https://toss.tech/article/dev-agility
+Template Literal Types로 타입 안전하게 코딩하기,"TypeScript 코드베이스의 타입 안전성을 한 단계 올려줄 수 있는 Template Literal Type의 뜻과 응용에 대해 알아봅니다.
+",2021. 5. 14,https://toss.tech/article/template-literal-types
+node_modules로부터 우리를 구원해 줄 Yarn Berry,"토스 프론트엔드 레포지토리 대부분에서 사용하고 있는 패키지 매니저 Yarn Berry. 채택하게 된 배경과 사용하면서 좋았던 점을 공유합니다.
+",2021. 5. 7,https://toss.tech/article/node-modules-and-yarn-berry
+JSCodeShift로 기술 부채 청산하기,"기술 부채는 개발할수록 쌓여만 갑니다. 프론트엔드 챕터가 JSCodeShift를 이용하여 순식간에 100개 서비스의 기술 부채를 해결한 경험을 소개합니다.
+",2021. 5. 4,https://toss.tech/article/jscodeshift
+웹 서비스 캐시 똑똑하게 다루기,"웹 성능을 위해 꼭 필요한 캐시, 제대로 설정하기 쉽지 않습니다. 토스 프론트엔드 챕터에서 올바르게 캐시를 설정하기 위한 노하우를 공유합니다.
+",2021. 4. 29,https://toss.tech/article/smart-web-service-cache
+토스 프론트엔드 챕터를 소개합니다!,"토스에서 프론트엔드 개발자가 일하는 방법과 맡고 있는 역할에 대해 소개드립니다.
+",2021. 4. 28,https://toss.tech/article/toss-frontend-chapter
+title,exercpt,date,href
+Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기,"토스페이먼츠에서는 API docs를 REST Docs를 사용해서 작성할 수 있도록 권장하고 있습니다. 이 글에서는 DSL을 통해서 반복적인 REST Docs 테스트 코드 작성을 줄일 수 있는 방법을 알아봅니다.
+",2022. 4. 11,https://toss.tech/article/kotlin-dsl-restdocs
+조금만 신경써서 초기 렌더링 빠르게 하기 (feat. JAM Stack),"SPA(Single Page Application) 구조로 웹 프론트엔드 애플리케이션이 개발되면서 초기 렌더링 속도는 프런트엔드 개발자에게 중요한 과제 중 하나가 되었습니다. 사용자 경험에 영향을 줄 수 있는 가장 큰 요소 중 하나가 바로 속도이기 때문입니다.
+",2022. 2. 9,https://toss.tech/article/faster-initial-rendering
+개발자의 애질리티,"이 글은 토스페이먼츠에 입사하신, 혹은 입사를 고려 중인 개발자분들을 위해 작성된 글입니다. 애자일하게 일한다는 것은 어떠한 의미일까요?
+",2021. 10. 14,https://toss.tech/article/dev-agility
+Template Literal Types로 타입 안전하게 코딩하기,"TypeScript 코드베이스의 타입 안전성을 한 단계 올려줄 수 있는 Template Literal Type의 뜻과 응용에 대해 알아봅니다.
+",2021. 5. 14,https://toss.tech/article/template-literal-types
+node_modules로부터 우리를 구원해 줄 Yarn Berry,"토스 프론트엔드 레포지토리 대부분에서 사용하고 있는 패키지 매니저 Yarn Berry. 채택하게 된 배경과 사용하면서 좋았던 점을 공유합니다.
+",2021. 5. 7,https://toss.tech/article/node-modules-and-yarn-berry
+JSCodeShift로 기술 부채 청산하기,"기술 부채는 개발할수록 쌓여만 갑니다. 프론트엔드 챕터가 JSCodeShift를 이용하여 순식간에 100개 서비스의 기술 부채를 해결한 경험을 소개합니다.
+",2021. 5. 4,https://toss.tech/article/jscodeshift
+웹 서비스 캐시 똑똑하게 다루기,"웹 성능을 위해 꼭 필요한 캐시, 제대로 설정하기 쉽지 않습니다. 토스 프론트엔드 챕터에서 올바르게 캐시를 설정하기 위한 노하우를 공유합니다.
+",2021. 4. 29,https://toss.tech/article/smart-web-service-cache
+토스 프론트엔드 챕터를 소개합니다!,"토스에서 프론트엔드 개발자가 일하는 방법과 맡고 있는 역할에 대해 소개드립니다.
+",2021. 4. 28,https://toss.tech/article/toss-frontend-chapter
+title,exercpt,date,href
+Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기,"토스페이먼츠에서는 API docs를 REST Docs를 사용해서 작성할 수 있도록 권장하고 있습니다. 이 글에서는 DSL을 통해서 반복적인 REST Docs 테스트 코드 작성을 줄일 수 있는 방법을 알아봅니다.
+",2022. 4. 11,https://toss.tech/article/kotlin-dsl-restdocs
+조금만 신경써서 초기 렌더링 빠르게 하기 (feat. JAM Stack),"SPA(Single Page Application) 구조로 웹 프론트엔드 애플리케이션이 개발되면서 초기 렌더링 속도는 프런트엔드 개발자에게 중요한 과제 중 하나가 되었습니다. 사용자 경험에 영향을 줄 수 있는 가장 큰 요소 중 하나가 바로 속도이기 때문입니다.
+",2022. 2. 9,https://toss.tech/article/faster-initial-rendering
+개발자의 애질리티,"이 글은 토스페이먼츠에 입사하신, 혹은 입사를 고려 중인 개발자분들을 위해 작성된 글입니다. 애자일하게 일한다는 것은 어떠한 의미일까요?
+",2021. 10. 14,https://toss.tech/article/dev-agility
+Template Literal Types로 타입 안전하게 코딩하기,"TypeScript 코드베이스의 타입 안전성을 한 단계 올려줄 수 있는 Template Literal Type의 뜻과 응용에 대해 알아봅니다.
+",2021. 5. 14,https://toss.tech/article/template-literal-types
+node_modules로부터 우리를 구원해 줄 Yarn Berry,"토스 프론트엔드 레포지토리 대부분에서 사용하고 있는 패키지 매니저 Yarn Berry. 채택하게 된 배경과 사용하면서 좋았던 점을 공유합니다.
+",2021. 5. 7,https://toss.tech/article/node-modules-and-yarn-berry
+JSCodeShift로 기술 부채 청산하기,"기술 부채는 개발할수록 쌓여만 갑니다. 프론트엔드 챕터가 JSCodeShift를 이용하여 순식간에 100개 서비스의 기술 부채를 해결한 경험을 소개합니다.
+",2021. 5. 4,https://toss.tech/article/jscodeshift
+웹 서비스 캐시 똑똑하게 다루기,"웹 성능을 위해 꼭 필요한 캐시, 제대로 설정하기 쉽지 않습니다. 토스 프론트엔드 챕터에서 올바르게 캐시를 설정하기 위한 노하우를 공유합니다.
+",2021. 4. 29,https://toss.tech/article/smart-web-service-cache
+토스 프론트엔드 챕터를 소개합니다!,"토스에서 프론트엔드 개발자가 일하는 방법과 맡고 있는 역할에 대해 소개드립니다.
+",2021. 4. 28,https://toss.tech/article/toss-frontend-chapter
+title,exercpt,date,href
+Kotlin으로 DSL 만들기: 반복적이고 지루한 REST Docs 벗어나기,"토스페이먼츠에서는 API docs를 REST Docs를 사용해서 작성할 수 있도록 권장하고 있습니다. 이 글에서는 DSL을 통해서 반복적인 REST Docs 테스트 코드 작성을 줄일 수 있는 방법을 알아봅니다.
+",2022. 4. 11,https://toss.tech/article/kotlin-dsl-restdocs
+조금만 신경써서 초기 렌더링 빠르게 하기 (feat. JAM Stack),"SPA(Single Page Application) 구조로 웹 프론트엔드 애플리케이션이 개발되면서 초기 렌더링 속도는 프런트엔드 개발자에게 중요한 과제 중 하나가 되었습니다. 사용자 경험에 영향을 줄 수 있는 가장 큰 요소 중 하나가 바로 속도이기 때문입니다.
+",2022. 2. 9,https://toss.tech/article/faster-initial-rendering
+개발자의 애질리티,"이 글은 토스페이먼츠에 입사하신, 혹은 입사를 고려 중인 개발자분들을 위해 작성된 글입니다. 애자일하게 일한다는 것은 어떠한 의미일까요?
+",2021. 10. 14,https://toss.tech/article/dev-agility
+Template Literal Types로 타입 안전하게 코딩하기,"TypeScript 코드베이스의 타입 안전성을 한 단계 올려줄 수 있는 Template Literal Type의 뜻과 응용에 대해 알아봅니다.
+",2021. 5. 14,https://toss.tech/article/template-literal-types
+node_modules로부터 우리를 구원해 줄 Yarn Berry,"토스 프론트엔드 레포지토리 대부분에서 사용하고 있는 패키지 매니저 Yarn Berry. 채택하게 된 배경과 사용하면서 좋았던 점을 공유합니다.
+",2021. 5. 7,https://toss.tech/article/node-modules-and-yarn-berry
+JSCodeShift로 기술 부채 청산하기,"기술 부채는 개발할수록 쌓여만 갑니다. 프론트엔드 챕터가 JSCodeShift를 이용하여 순식간에 100개 서비스의 기술 부채를 해결한 경험을 소개합니다.
+",2021. 5. 4,https://toss.tech/article/jscodeshift
+웹 서비스 캐시 똑똑하게 다루기,"웹 성능을 위해 꼭 필요한 캐시, 제대로 설정하기 쉽지 않습니다. 토스 프론트엔드 챕터에서 올바르게 캐시를 설정하기 위한 노하우를 공유합니다.
+",2021. 4. 29,https://toss.tech/article/smart-web-service-cache
+토스 프론트엔드 챕터를 소개합니다!,"토스에서 프론트엔드 개발자가 일하는 방법과 맡고 있는 역할에 대해 소개드립니다.
+",2021. 4. 28,https://toss.tech/article/toss-frontend-chapter

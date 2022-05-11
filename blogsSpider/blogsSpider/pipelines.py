@@ -6,8 +6,11 @@
 
 # useful for handling different item types with a single interface
 from itemadapter import ItemAdapter
+import json
 
 
 class BlogsspiderPipeline:
     def process_item(self, item, spider):
+
+        print('====== pipeline =======',item)
         return item
